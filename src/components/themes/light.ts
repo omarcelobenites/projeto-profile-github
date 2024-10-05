@@ -1,5 +1,5 @@
 const temaLight = {
-  corPrincipal: 'red',
+  corPrincipal: '#282a35',
   corSecundaria: '#949494',
   corDeFundo: '#fff',
   corDeFundoDoBotao: '#4476bf',
